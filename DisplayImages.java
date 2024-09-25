@@ -13,10 +13,10 @@ public class DisplayImages extends Application {
         GridPane gridPane = new GridPane();
 
         // Load images
-        Image image1 = new Image("file:resources/image1.jpg");
-        Image image2 = new Image("file:resources/image2.jpg");
-        Image image3 = new Image("file:resources/image3.jpg");
-        Image image4 = new Image("file:resources/image4.jpg");
+        Image image1 = new Image("Everything-is-fine-meme-hilarious-zoom-background-min.png");
+        Image image2 = new Image("IsThisAZoomUser.jpg");
+        Image image3 = new Image("Rick-and-morty-background-for-funny-zoom-meetings-min.png");
+        Image image4 = new Image("Stupid-and-funny-background-for-meetings-zoom-min.png");
 
         // Create ImageView objects for each image
         ImageView imageView1 = new ImageView(image1);
